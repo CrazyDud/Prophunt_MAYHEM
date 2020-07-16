@@ -2,13 +2,13 @@
 	[{	
 		"DefaultSpray":{
 			"Decal" : "rbxassetid://1106180151",
-			"Size" : {"4"},
+			"Size" : {"X" : 4},
 			"Rarity" : 0,
 			"Price": -1
 			},
 		"Arrows_Right_White":{
 			"Decal" : "ANIMATED_ linkto animated decal instance",
-			"Size" : {"10", "5"},
+			"Size" : {"X" : 10, "Y" : 5},
 			"Rarity" : 3,
 			"Price": 599
 			}
